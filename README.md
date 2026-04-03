@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<img src="gzh.png" width="280" alt="道一安全公众号">
+<img src="gzh.png" width="2739" height="969" alt="道一安全公众号">
 
 **本项目由道一安全创建维护**<br>
 扫码关注公众号，获取更多安全资讯
