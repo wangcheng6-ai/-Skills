@@ -23,7 +23,7 @@
 | ctf-skills | 解决CTF挑战的代理技能——网页漏洞利用、二进制文件破解、加密、逆向工程、取证、开源情报（OSINT）等 | [ctf-skills](https://github.com/ljagiello/ctf-skills) |
 | threat-modeling | 原生AI自动化软件风险分析技能。采用大型语言模型（LLM）驱动、代码优先的方法，进行全面的安全风险评估、威胁建模、安全测试、渗透测试和合规性检查。 | [threat-modeling](https://github.com/fr33d3m0n/threat-modeling) |
 | pentest-skills | 告别复杂的命令行，用自然语言完成专业渗透测试。你只需描述测试目标，Claude Code 会自动选择合适的工具、执行命令、分析结果。 | [pentest-skills](https://github.com/crazyMarky/pentest-skills) |
-| AutoSongshu Agent (自动松鼠) | AutoSongshu 是一个自动化 Web 渗透测试辅助 Agent。它旨在通过大语言模型（LLM）的推理能力，结合浏览器自动化和安全扫描工具，为安全工程师提供一个“半自动驾驶”的渗透测试工作台。 | [AutoSongshu Agent]([https://github.com/crazyMarky/pentest-skills](https://github.com/Cian233/AutoSongshu)) |
+| AutoSongshu Agent (自动松鼠) | AutoSongshu 是一个自动化 Web 渗透测试辅助 Agent。它旨在通过大语言模型（LLM）的推理能力，结合浏览器自动化和安全扫描工具，为安全工程师提供一个“半自动驾驶”的渗透测试工作台。 | [AutoSongshu Agent](https://github.com/Cian233/AutoSongshu) |
 <br/><br/>
 ## 关注我们
 
