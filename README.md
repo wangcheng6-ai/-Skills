@@ -28,6 +28,7 @@
 | pentest-skills | 告别复杂的命令行，用自然语言完成专业渗透测试。你只需描述测试目标，Claude Code 会自动选择合适的工具、执行命令、分析结果。 | [pentest-skills](https://github.com/crazyMarky/pentest-skills) |
 | AutoSongshu Agent (自动松鼠) | AutoSongshu 是一个自动化 Web 渗透测试辅助 Agent。它旨在通过大语言模型（LLM）的推理能力，结合浏览器自动化和安全扫描工具，为安全工程师提供一个“半自动驾驶”的渗透测试工作台。 | [AutoSongshu Agent](https://github.com/Cian233/AutoSongshu) |
 |  sec-skills | 安全研究 Skills 仓库，专注于防御性安全研究工具集。 | [sec-skills](https://github.com/Rvn0xsy/sec-skills?tab=readme-ov-file) |
+| Code Audit | 专业白盒代码安全审计技能，覆盖 55+ 漏洞类型，双轨审计模型，多 Agent 深度分析。 | [Code Audit](https://github.com/3stoneBrother/code-audit/blob/main/README_CN.md) |
 <br/><br/>
 
 # 娱乐相关
@@ -47,7 +48,7 @@
 | 月老 · 姻缘测算 Skills | Claude Code 姻缘测算技能 —— 赛博月老，用中华传统术数帮你算姻缘 | [月老 · 姻缘测算 Skills](https://github.com/Ming-H/yinyuan-skills) |
 | Numerologist Skills | 本项目致力于通过“工程化”手段，让大语言模型（LLM）精准理解和应用传统东方术数（如奇门遁甲、紫微斗数）。 | [Numerologist Skills](https://github.com/FANzR-arch/Numerologist_skills) |
 | Master-skill | 基于佛教经典文献的汉传祖师大德教学角色生成器 | [Master-skill](https://github.com/xr843/Master-skill) |
-| Code Audit | 专业白盒代码安全审计技能，覆盖 55+ 漏洞类型，双轨审计模型，多 Agent 深度分析。 | [Code Audit](https://github.com/3stoneBrother/code-audit/blob/main/README_CN.md) |
+
 
 ## 关注我们
 
