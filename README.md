@@ -47,6 +47,7 @@
 | 月老 · 姻缘测算 Skills | Claude Code 姻缘测算技能 —— 赛博月老，用中华传统术数帮你算姻缘 | [月老 · 姻缘测算 Skills](https://github.com/Ming-H/yinyuan-skills) |
 | Numerologist Skills | 本项目致力于通过“工程化”手段，让大语言模型（LLM）精准理解和应用传统东方术数（如奇门遁甲、紫微斗数）。 | [Numerologist Skills](https://github.com/FANzR-arch/Numerologist_skills) |
 | Master-skill | 基于佛教经典文献的汉传祖师大德教学角色生成器 | [Master-skill](https://github.com/xr843/Master-skill) |
+| Code Audit | 专业白盒代码安全审计技能，覆盖 55+ 漏洞类型，双轨审计模型，多 Agent 深度分析。 | [Code Audit](https://github.com/3stoneBrother/code-audit/blob/main/README_CN.md) |
 
 ## 关注我们
 
