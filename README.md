@@ -27,7 +27,11 @@ CTF	1
 
 娱乐 12
 
-共计 50 个
+微信小程序审计 1
+
+MCP 1
+
+共计 52 个
 
 # 安全相关
 
@@ -71,8 +75,18 @@ CTF	1
 | Pentest Active Directory | 评估 Active Directory 身份攻击路径，包括烘焙、中继和委托滥用。| [Pentest Active Directory](https://clawhub.ai/0x-professor/pentest-active-directory) |
 | Nmap Pentest Scans | 规划并协调授权的 Nmap 主机发现、端口和服务枚举、NSE 分析及范围内目标的报告成果。 | [Nmap Pentest Scans](https://clawhub.ai/0x-professor/nmap-pentest-scans) |
 | Security Scanner | 为网络应用、API 和基础设施提供自动化安全扫描和漏洞检测。当你需要扫描目标漏洞、检查 SSL 证书、寻找未开放端口、检测配置错误或进行安全审计时使用。可集成 nmap、nuclei 及其他安全工具。 | [Security Scanner](https://clawhub.ai/dmx64/security-scanner) |
+| wxmini-security-audit | 微信小程序全自动安全审计 Skill，基于 Claude Code Agent Teams。7 Agent 协作，覆盖敏感信息、API接口、加密分析、漏洞分析四大维度。采用脚本+LLM双层架构，脚本保证覆盖率，LLM保证准确率。 | [wxmini-security-audit](https://github.com/sssmmmwww/wxmini-security-audit) |
 
-<br/><br/>
+<br/>
+
+# MCP
+
+| 名称 | 描述 | 链接 |
+|------|------|------|
+| SO Analyzer MCP | Native库（SO文件）分析工具，支持Flutter应用抓包。免费开源的IDA Pro替代品！ | [SO Analyzer MCP](https://github.com/1600822305/so-analyzer-mcp) |
+
+
+<br/>
 
 # 娱乐相关
 <br/>
